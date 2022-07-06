@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Regla",
+    "price": 200,
+    "thumbnail": "https://img.icons8.com/officel/344/ruler.png",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 1300,
+    "thumbnail": "https://img.icons8.com/officel/344/estimate.png",
+    "id": 2
+  },
+  {
+    "title": "Cuaderno",
+    "price": 325,
+    "thumbnail": "https://img.icons8.com/fluency/344/copybook--v2.png",
+    "id": 3
+  },
+  {
+    "title": "Lapicera",
+    "price": 250,
+    "thumbnail": "https://img.icons8.com/emoji/344/fountain-pen-emoji.png",
+    "id": 4
+  }
+]
