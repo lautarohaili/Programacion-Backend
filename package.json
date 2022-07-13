@@ -1,0 +1,24 @@
+{
+  "name": "programacion-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautarohaili/Programacion-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lautarohaili/Programacion-Backend/issues"
+  },
+  "homepage": "https://github.com/lautarohaili/Programacion-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  }
+}
